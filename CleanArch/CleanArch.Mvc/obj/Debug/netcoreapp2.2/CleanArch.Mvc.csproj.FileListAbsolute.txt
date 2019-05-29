@@ -29,3 +29,8 @@ C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Mvc\obj\Debug\netc
 C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.dll
 C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.pdb
 C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.csproj.CopyComplete
+C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Domain.dll
+C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Infra.Data.dll
+C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Infra.Data.pdb
+C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Domain.pdb
+C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.csprojAssemblyReference.cache
