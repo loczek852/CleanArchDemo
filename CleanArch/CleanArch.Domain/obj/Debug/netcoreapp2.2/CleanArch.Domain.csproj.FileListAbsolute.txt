@@ -6,3 +6,4 @@ C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Domain\obj\Debug\n
 C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp2.2\CleanArch.Domain.AssemblyInfo.cs
 C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp2.2\CleanArch.Domain.dll
 C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp2.2\CleanArch.Domain.pdb
+C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp2.2\CleanArch.Domain.csprojAssemblyReference.cache

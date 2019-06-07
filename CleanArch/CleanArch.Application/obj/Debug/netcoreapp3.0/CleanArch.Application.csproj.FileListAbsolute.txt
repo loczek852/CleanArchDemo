@@ -1,0 +1,9 @@
+C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.0\CleanArch.Application.deps.json
+C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.0\CleanArch.Application.dll
+C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.0\CleanArch.Application.pdb
+C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.0\CleanArch.Application.csprojAssemblyReference.cache
+C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.0\CleanArch.Application.AssemblyInfoInputs.cache
+C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.0\CleanArch.Application.AssemblyInfo.cs
+C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.0\CleanArch.Application.dll
+C:\Users\Beata\source\repos\CleanArchDemo\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.0\CleanArch.Application.pdb

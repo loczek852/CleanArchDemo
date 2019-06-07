@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Beata\\source\\repos\\CleanArchDemo\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {}
+    "C:\\Users\\Beata\\source\\repos\\CleanArchDemo\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Beata\\source\\repos\\CleanArchDemo\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+    "C:\\Users\\Beata\\source\\repos\\CleanArchDemo\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beata\\source\\repos\\CleanArchDemo\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
-        "projectName": "CleanArch.Domain",
-        "projectPath": "C:\\Users\\Beata\\source\\repos\\CleanArchDemo\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Beata\\source\\repos\\CleanArchDemo\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj",
+        "projectName": "CleanArch.Application",
+        "projectPath": "C:\\Users\\Beata\\source\\repos\\CleanArchDemo\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj",
         "packagesPath": "C:\\Users\\Beata\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beata\\source\\repos\\CleanArchDemo\\CleanArch\\CleanArch.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Beata\\source\\repos\\CleanArchDemo\\CleanArch\\CleanArch.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,7 +21,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp3.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -34,7 +34,7 @@
           "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp3.0": {
             "projectReferences": {}
           }
         },
@@ -45,20 +45,15 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.0": {
           "imports": [
             "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "frameworkReferences": [
+            "Microsoft.NETCore.App"
+          ]
         }
       }
     }
